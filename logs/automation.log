@@ -1,0 +1,1118 @@
+02:12:36.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+02:12:36.376 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+02:12:36.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.382 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.382 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.398 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 25 ms.
+02:12:36.471 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 40 ms.
+02:12:36.477 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+02:12:36.482 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.483 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.485 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.493 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.495 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.512 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+02:12:36.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+02:12:36.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.531 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.532 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:12:36.533 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:12:36.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--1248631446\testng-customsuite.xml
+
+02:12:36.694 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 18 ms.
+02:12:42.421 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:12:42.540 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:12:42.801 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:12:43.668 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:12:48.459 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:12:50.245 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:12:50.352 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:12:51.628 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4f186450: 200 ms
+02:12:51.686 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7d755813: 58 ms
+02:12:51.737 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6dd91637: 51 ms
+02:12:51.860 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@c81fd12: 123 ms
+02:12:51.885 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47d7bfb3: 24 ms
+02:12:51.886 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@770b3be0: 0 ms
+02:15:44.338 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+02:15:44.352 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+02:15:44.354 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.356 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.356 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+02:15:44.392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+02:15:44.394 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.395 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.398 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.401 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.402 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.413 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.415 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+02:15:44.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.419 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.419 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:15:44.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:15:44.449 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-596348444\testng-customsuite.xml
+
+02:15:44.497 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+02:15:50.635 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:15:50.716 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:15:50.933 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:15:51.878 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:15:56.834 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:15:58.717 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:16:00.007 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4f186450: 203 ms
+02:16:00.141 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7d755813: 128 ms
+02:16:00.188 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6dd91637: 47 ms
+02:16:00.241 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@c81fd12: 53 ms
+02:16:00.268 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47d7bfb3: 27 ms
+02:16:00.268 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@770b3be0: 0 ms
+02:20:30.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+02:20:30.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+02:20:30.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+02:20:30.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+02:20:30.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.978 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.978 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.984 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:30.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:30.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:31.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:31.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:31.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:20:31.001 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:20:31.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-1323349842\testng-customsuite.xml
+
+02:20:31.064 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+02:20:36.900 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:20:36.978 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:20:37.214 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:20:38.334 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:20:40.011 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:20:41.733 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:20:42.923 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4e628b52: 222 ms
+02:20:42.980 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7551da2a: 57 ms
+02:20:43.028 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@77bd7fe7: 48 ms
+02:20:43.079 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6e1f8469: 51 ms
+02:20:43.097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@320494b6: 18 ms
+02:20:43.097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@652ab8d9: 0 ms
+02:42:40.174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:42:47.656 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:42:47.794 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:42:48.018 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:42:49.067 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:42:50.725 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:42:53.041 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:44:27.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:44:37.595 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:44:37.672 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:44:37.960 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:44:39.208 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:44:41.000 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:44:43.485 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:44:43.602 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:48:35.886 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+02:48:43.691 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:48:43.778 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:48:44.137 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:48:45.585 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:48:47.713 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:48:49.952 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:48:50.071 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:48:56.943 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:48:56.943 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:48:57.247 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:48:58.207 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:49:00.524 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:49:01.926 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:49:02.041 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:50:36.697 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:50:36.700 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:50:37.970 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:50:40.617 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:52:09.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+02:52:18.156 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:52:18.285 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:52:18.609 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:52:19.944 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:52:22.395 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:52:24.486 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:52:24.602 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:52:32.832 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:52:32.835 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:52:33.540 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:52:34.972 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:52:36.939 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:52:38.303 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:52:38.395 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:53:28.545 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+02:53:42.187 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:53:42.862 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:53:43.055 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:53:43.056 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:53:43.354 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:53:43.738 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:53:45.328 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:53:45.621 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:53:49.574 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:53:50.716 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:53:51.188 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:53:51.354 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:53:52.903 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:53:53.114 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+03:02:20.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+03:03:32.607 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+03:03:39.309 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+03:03:39.379 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+03:03:39.619 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+03:03:40.266 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+03:03:42.148 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+03:03:43.835 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+03:03:43.931 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+03:04:46.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+03:04:52.676 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+03:04:52.745 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+03:04:52.988 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+03:04:54.329 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+01:17:14.005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:17:28.880 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+01:17:31.910 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+01:20:52.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:20:57.599 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+01:24:29.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:24:43.652 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+01:24:49.124 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+01:24:48.975 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:41:18.602 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:41:31.378 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:41:34.722 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:41:34.760 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:41:37.053 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:41:37.066 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:41:40.327 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:41:40.357 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:45:27.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:45:36.220 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:45:44.395 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:45:44.438 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:45:53.532 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:45:53.550 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:46:01.839 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:46:01.847 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:47:01.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+01:47:09.977 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:47:18.123 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:47:18.147 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:47:25.326 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:47:25.357 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:47:34.556 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+01:47:34.572 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+01:47:41.744 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:01:38.732 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:01:49.149 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:02:01.806 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:02:12.109 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:02:22.325 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:07:48.950 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:07:57.607 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:08:11.308 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:08:11.325 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:08:22.880 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:08:22.895 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:08:34.874 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:08:34.908 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:18:50.611 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:19:01.766 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:19:10.893 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:19:10.911 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:19:18.300 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:19:18.319 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:19:31.117 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:19:31.117 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:21:07.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:21:15.471 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:21:23.286 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:21:23.314 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:21:30.736 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:21:30.760 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:21:37.578 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:21:37.583 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:26:05.113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:26:16.305 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:26:24.348 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:26:24.373 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:26:31.826 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:26:31.856 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:26:38.739 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:26:38.750 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:32:43.429 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:32:53.220 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:32:56.844 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:32:56.870 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:32:58.737 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:32:58.753 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:33:00.948 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:33:02.951 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:37:57.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:38:11.436 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:38:15.505 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:38:15.519 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:38:17.521 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:38:17.539 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:38:23.610 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+02:38:23.635 [main] INFO  testCases.TC003_LoginDDT - **Starting TC003_LoginDDT**
+02:38:25.788 [main] INFO  testCases.TC003_LoginDDT - **Finished TC003_LoginDDT
+19:10:56.048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:13:01.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:15:54.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:19:17.532 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:19:26.658 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:19:26.722 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:19:26.933 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:19:27.988 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:19:29.385 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:19:30.647 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:19:30.744 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:19:37.203 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+19:21:37.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:21:45.217 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+19:38:50.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:50:06.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:50:14.569 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+19:53:12.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+19:53:17.777 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:53:20.532 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:49:53.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+02:50:03.164 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:50:06.019 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:53:11.511 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+02:53:19.305 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:53:21.917 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:20:17.078 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:20:24.630 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:20:27.457 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:38:48.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:38:54.349 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:38:58.105 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:43:38.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:43:43.908 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:43:46.513 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:45:42.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:45:48.008 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:45:50.601 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:46:25.796 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:46:31.448 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:46:34.173 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:47:26.421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:47:32.311 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:47:34.754 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:51:35.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:51:42.133 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:51:45.294 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:52:58.144 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+03:53:03.513 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:53:05.988 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+01:47:20.984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+01:47:32.391 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+01:51:46.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+01:51:53.314 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:13:24.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+02:13:32.543 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:19:01.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+02:19:06.757 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:22:08.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\grouping.xml
+
+02:22:15.789 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:22:15.840 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:22:16.039 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:22:16.847 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:22:18.252 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:22:19.763 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:22:19.875 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:22:23.630 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:22:26.277 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+19:33:35.549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+19:37:30.123 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+19:37:40.533 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:37:40.742 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:37:40.909 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:37:42.638 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:37:44.260 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:37:45.504 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:37:45.601 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:37:49.813 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:37:52.613 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:18:12.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:18:23.936 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:18:24.039 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:18:24.322 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:18:25.288 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:18:26.969 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:18:28.285 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:18:28.551 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:18:33.078 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:18:35.697 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:21:25.383 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:21:31.359 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:21:31.434 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:21:32.034 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:21:33.226 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:21:35.288 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:21:36.652 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:21:36.943 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:21:41.335 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:21:44.114 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:22:27.857 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:22:43.630 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:22:43.687 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:22:43.991 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:22:45.536 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:22:47.241 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:22:47.412 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:23:07.313 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:23:10.243 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:42:50.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:43:05.259 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:43:05.336 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:43:05.771 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:43:07.909 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:43:09.870 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:43:10.093 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:43:33.459 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:43:38.727 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:44:25.365 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:44:35.743 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:44:35.817 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:44:36.311 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:44:38.019 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:44:40.907 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:44:42.718 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:44:42.940 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:44:46.819 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:44:50.083 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:51:47.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:51:48.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:51:54.407 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:51:54.478 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:51:54.741 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:51:55.875 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:51:57.507 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:51:58.690 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:51:59.000 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:52:02.816 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:52:02.881 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:52:03.137 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:52:04.104 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:52:05.660 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:52:06.820 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:52:07.286 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+02:52:10.143 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:52:13.055 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:52:16.773 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:52:19.478 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+02:54:28.827 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+02:54:40.547 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+02:54:40.639 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+02:54:41.059 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+02:54:42.909 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+02:54:44.539 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+02:54:44.787 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+02:55:04.106 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+02:55:08.333 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+03:00:04.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+03:00:14.594 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+03:00:14.648 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+03:00:14.933 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+03:00:15.903 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+03:00:17.205 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+03:00:17.370 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+03:00:28.232 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+03:00:37.703 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+03:00:40.889 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+23:38:12.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+23:38:26.942 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+23:38:26.943 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+23:38:27.141 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+23:38:27.481 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+23:48:13.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+23:48:24.824 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+23:48:25.027 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+23:48:25.423 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+23:48:28.158 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+23:48:38.846 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+23:50:29.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+23:50:36.817 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+23:50:36.945 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+23:50:36.949 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+23:50:37.596 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+23:54:10.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+23:54:22.991 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+23:54:22.991 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+23:54:23.110 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+23:54:23.807 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:11:02.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:11:19.377 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:11:19.377 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:11:19.451 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:11:20.013 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:30:28.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:30:36.084 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:30:36.083 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:30:36.173 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:30:36.569 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:32:48.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:32:53.954 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:32:54.030 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:32:54.233 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:32:54.971 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+00:32:56.368 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+00:32:57.777 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+00:32:57.976 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+00:33:18.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:33:26.430 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:33:26.429 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:33:26.499 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:33:27.061 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:34:22.236 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:34:27.615 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:34:27.702 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:34:27.931 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:34:28.796 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+00:34:30.195 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+00:34:31.705 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+00:34:31.895 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+00:34:36.465 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:34:39.689 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+00:37:47.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:37:55.652 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:37:55.977 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:37:56.021 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:37:56.553 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:37:57.869 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+00:37:59.431 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+00:38:00.313 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+00:38:01.600 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+00:38:01.791 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+00:38:41.234 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:38:51.059 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:38:51.073 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:38:51.141 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:38:51.519 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:38:52.942 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+00:38:54.517 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+00:38:55.079 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+00:38:56.524 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+00:38:56.682 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+00:39:45.558 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+00:39:53.719 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+00:39:53.727 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:39:53.784 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+00:39:54.057 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+00:39:55.603 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+00:39:57.364 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+00:39:57.418 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+00:39:58.726 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+00:39:58.915 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:08:45.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+19:08:57.071 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:08:57.195 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:08:57.381 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:08:58.148 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:08:59.648 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:09:00.910 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:09:01.269 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:09:06.047 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:16:41.203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+19:16:46.855 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:16:46.939 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:16:47.188 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:16:47.978 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:16:49.414 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:16:50.612 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:16:50.787 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:16:54.622 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:32:42.708 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+19:32:52.170 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:32:52.251 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:32:52.512 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:32:53.619 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:32:55.889 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:32:57.298 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:32:57.590 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:33:02.593 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:37:14.658 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+19:37:25.347 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:37:25.347 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:37:25.441 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:37:26.302 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:37:28.427 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:37:31.585 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:37:32.893 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:37:33.140 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:38:14.084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+19:38:24.254 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:38:25.223 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:38:25.235 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:38:25.656 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:38:27.073 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:38:29.884 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:38:30.245 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+19:38:31.546 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:38:31.840 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:44:00.340 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+19:44:12.737 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:44:13.006 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:44:13.359 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:44:13.843 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:44:15.906 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:44:18.534 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:44:20.628 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:44:20.930 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:44:41.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+19:44:53.010 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:44:53.796 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:44:53.798 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:44:54.320 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:44:56.213 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:44:59.334 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:45:00.783 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:45:01.031 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+19:45:45.169 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+19:45:56.392 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+19:45:57.129 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+19:45:57.135 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+19:45:57.977 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+19:45:59.887 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+19:46:03.984 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+19:46:05.600 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+19:46:05.902 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:03:37.615 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:03:50.841 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:03:51.733 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:03:51.738 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:03:52.359 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:03:54.105 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:03:57.042 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:03:58.568 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:03:58.986 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:05:26.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:05:34.478 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:05:35.258 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:05:35.260 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:05:36.034 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:05:37.164 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:05:39.112 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:05:40.356 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:05:40.619 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:06:00.578 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:06:09.794 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:06:09.794 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:06:09.856 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:06:10.511 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:06:11.961 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:06:13.772 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:06:14.957 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:06:15.145 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:06:28.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:06:36.824 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:06:37.235 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:06:37.241 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:06:37.664 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:06:38.962 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:06:40.788 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:06:41.909 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:06:42.082 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:06:55.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:07:03.627 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:07:03.802 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:07:03.953 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:07:04.463 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:07:05.810 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:07:07.859 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:07:08.945 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:07:09.233 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:07:32.814 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:07:41.035 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:07:41.135 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:07:41.487 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:07:41.583 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:07:42.652 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:07:44.540 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:07:45.688 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:07:45.891 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:08:19.681 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:08:27.240 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:08:28.115 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:08:28.115 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:08:28.521 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:08:29.756 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:08:30.559 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+20:08:31.430 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:08:32.598 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:08:32.743 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:09:05.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:09:14.033 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:09:14.882 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:09:14.883 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:09:15.110 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:09:16.285 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:09:17.738 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:09:18.886 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:09:19.037 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:09:48.048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:09:57.256 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:09:57.354 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:09:57.363 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:09:57.611 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:09:58.895 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:10:00.624 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:10:01.752 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:10:02.091 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:18:49.255 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:18:58.307 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:18:58.990 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:18:58.992 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:18:59.286 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:19:00.516 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:19:01.382 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+20:19:02.015 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:19:03.259 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:19:03.434 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:21:07.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:21:07.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:21:24.887 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:21:24.931 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:21:25.571 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:21:25.582 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:21:25.603 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:21:26.315 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:21:27.435 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:21:27.761 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:21:28.010 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:21:29.232 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:21:31.075 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:21:32.650 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:21:33.221 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:21:33.294 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+20:21:33.513 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:21:33.932 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:21:34.128 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+20:21:36.718 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+20:22:14.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+20:22:23.009 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+20:22:23.510 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+20:22:23.511 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+20:22:24.136 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+20:22:25.691 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+20:22:26.246 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+20:22:27.482 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+20:22:28.493 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+20:22:28.678 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+12:11:56.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+12:12:08.332 [main] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+12:12:08.495 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+12:12:08.752 [main] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+12:12:09.892 [main] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+12:12:11.328 [main] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+12:12:12.788 [main] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+12:12:13.039 [main] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+12:12:17.101 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:12:20.253 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+12:18:09.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+12:18:17.669 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+12:18:17.674 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:18:17.724 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+12:18:17.937 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+12:18:19.140 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+12:18:20.998 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+12:18:22.173 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+12:18:22.366 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+12:21:43.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+12:21:51.308 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+12:21:51.475 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+12:21:51.512 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:21:51.878 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+12:21:53.307 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+12:21:55.196 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+12:21:56.489 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+12:21:56.738 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+12:26:00.599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+12:26:09.123 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:26:09.412 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+12:26:09.413 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+12:26:09.828 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+12:26:11.116 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+12:26:12.886 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+12:26:13.763 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+12:37:40.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+12:37:46.722 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:43:03.525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+12:43:09.477 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:43:47.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+12:43:55.378 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+12:43:55.740 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+12:43:55.741 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+12:43:56.075 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+12:43:57.377 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+12:43:59.554 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+12:44:01.167 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+12:44:01.497 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+14:27:07.741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+14:27:20.381 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+14:51:39.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+14:51:49.429 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+14:52:47.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+14:53:00.119 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+14:53:00.123 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+14:53:00.272 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+14:53:00.765 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+14:53:02.564 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+14:53:05.461 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+14:53:05.875 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+14:53:07.007 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+14:53:07.281 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:04:30.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+15:04:38.173 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:06:54.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:11:36.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:11:47.245 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:11:47.245 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:11:47.306 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:11:47.527 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:11:48.669 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:11:50.906 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:11:52.246 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:11:52.482 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:16:48.217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:16:56.755 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:16:56.755 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:16:56.831 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:16:57.266 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:16:58.568 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:17:00.464 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:17:01.657 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:17:01.970 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:17:33.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:17:42.369 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:17:42.369 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:17:42.407 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:17:42.798 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:17:44.044 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:17:45.882 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:17:47.015 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:17:47.179 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:19:13.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+15:19:18.899 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:21:29.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+15:21:34.966 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:22:37.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+15:22:43.927 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:27:15.021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\master.xml
+
+15:27:25.961 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:29:52.359 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:30:00.792 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:30:00.842 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:30:01.021 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:30:02.007 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:30:03.376 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:30:04.641 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:30:04.801 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:30:21.374 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:31:01.202 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:31:09.150 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:31:09.521 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:31:09.861 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:31:10.062 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:31:11.780 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:31:13.479 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:31:14.564 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:31:14.851 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:35:57.148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:36:31.374 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:36:31.505 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:36:40.305 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:36:51.917 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:36:55.489 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:36:57.593 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:36:57.998 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:36:58.304 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+15:40:00.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\OpenCartLatest\crossbrowsertesting.xml
+
+15:40:08.569 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Starting TC001_AccountRegistrationTest**
+15:40:08.671 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on MyAccount**
+15:40:09.076 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Clicking on Register
+15:40:10.340 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Providing user's details in the registration form**
+15:40:13.713 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Submitting the registration form**
+15:40:16.051 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Validating Confirmation Message**
+15:40:16.295 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+15:40:16.624 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Finished TC001_AccountRegistrationTest**
+00:52:54.487 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:55:05.160 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:55:07.885 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+00:59:00.927 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+00:59:09.836 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+01:04:41.761 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+01:04:45.051 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
